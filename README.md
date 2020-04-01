@@ -1,4 +1,4 @@
-# Module-1: What is NVivo?
+# Module 1: What is NVivo?
 
 ## Workshop Overview
 In this workshop, you will learn the fundamental building blocks of NVivo: coding and file management. 
